@@ -75,3 +75,6 @@ C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\eTickets.pdb
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\eTickets.genruntimeconfig.cache
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\ref\eTickets.dll
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
+C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
