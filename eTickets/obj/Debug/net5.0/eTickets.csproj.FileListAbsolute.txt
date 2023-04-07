@@ -76,3 +76,4 @@ C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
 C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+C:\BTTH\C#\eTickets\eTickets\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs
